@@ -1,0 +1,62 @@
+title,chunk_id,character_count,male,female,source_file,male1_name,male1_traits,male1_intelligence,male1_bravery,male1_power,male2_name,male2_traits,male2_intelligence,male2_bravery,male2_power,female1_name,female1_traits,female1_intelligence,female1_bravery,female1_power,female2_name,female2_traits,female2_intelligence,female2_bravery,female2_power
+A DESCENT INTO THE MAELSTRÖM,0,1,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,1,1,1,0,samentic_chunk.csv,none,"[""old"", ""fearful"", ""weak"", ""timid""]",0,-1,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,2,1,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,3,1,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,4,0,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,5,0,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,6,2,0,0,samentic_chunk.csv,none,[],0,0,0,old man,[],1,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,7,0,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,8,0,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,9,0,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,10,2,1,0,samentic_chunk.csv,old man,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,11,0,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,12,0,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,13,0,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,14,1,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,15,0,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,16,1,1,0,samentic_chunk.csv,Jonas Ramus,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,17,4,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,18,0,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,19,3,3,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,20,3,3,0,samentic_chunk.csv,none,[],0,1,0,none,[],0,1,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,21,0,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,22,0,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,23,0,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,24,4,3,1,samentic_chunk.csv,none,[],0,0,0,eldest brother,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,25,0,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,26,3,2,1,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,27,0,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,28,3,2,0,samentic_chunk.csv,none,[],0,1,1,youngest brother,[],0,1,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,29,2,1,1,samentic_chunk.csv,none,[],0,1,0,none,[],0,0,0,none,[],0,1,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,30,2,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,31,2,1,1,samentic_chunk.csv,none,[],0,0,0,elder brother,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,32,1,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,33,0,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,34,2,0,1,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,35,1,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,36,1,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,37,0,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,38,0,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,39,1,0,1,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,40,1,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,41,0,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,42,0,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,43,2,1,1,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,44,1,1,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,45,1,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,46,1,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,47,1,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,48,0,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,49,0,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,50,0,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,51,1,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,52,0,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,53,0,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,54,0,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,55,1,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,56,0,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,57,2,2,0,samentic_chunk.csv,none,[],0,1,0,brother,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,58,2,1,1,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,59,0,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0
+A DESCENT INTO THE MAELSTRÖM,60,1,0,0,samentic_chunk.csv,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0,none,[],0,0,0

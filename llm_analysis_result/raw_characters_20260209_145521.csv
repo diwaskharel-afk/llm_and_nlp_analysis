@@ -1,0 +1,78 @@
+title,chunk_id,chunk_summary,character_name,gender,traits,score_intelligence,score_bravery,score_power,score_agency,score_emotionality
+A DESCENT INTO THE MAELSTRÖM,0,"An old man recounts a traumatic, life-changing event during a mountain climb",the old man,unknown,"[""exhausted"", ""traumatized""]",0,0,0,0,1
+A DESCENT INTO THE MAELSTRÖM,1,An old man describes his physical decline and fear of a cliff.,the old man,unknown,"[""physically weakened"", ""fearful"", ""careless""]",0,-2,0,0,1
+A DESCENT INTO THE MAELSTRÖM,2,Narrator describes fear and peril near a dangerous mountain edge,narrator,unknown,"[""fearful"", ""excited"", ""cautious""]",0,-2,0,-1,1
+A DESCENT INTO THE MAELSTRÖM,3,Narrator and guide observe a scene near the Norwegian coast.,the guide,unknown,"[""knowledgeable"", ""particularizing""]",1,0,0,1,0
+A DESCENT INTO THE MAELSTRÖM,3,Narrator and guide observe a scene near the Norwegian coast.,the narrator,unknown,"[""curious""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,10,Narrator describes witnessing the Maelström and discusses its name and reputation,the narrator,unknown,"[""nervous"", ""agitated""]",0,0,0,0,1
+A DESCENT INTO THE MAELSTRÖM,10,Narrator describes witnessing the Maelström and discusses its name and reputation,the old man,unknown,"[""informative""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,10,Narrator describes witnessing the Maelström and discusses its name and reputation,Jonas Ramus,unknown,"[""circumstantial""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,10,Narrator describes witnessing the Maelström and discusses its name and reputation,the scene,unknown,"[""magnificent"", ""horrific""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,14,Describes a bear caught in a turbulent stream and the environment,the bear,unknown,"[""roaring terribly""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,16,Narrator reflects on Jonas Ramus and the phenomenon of the Maelström,the narrator,unknown,"[""observant"", ""thoughtful""]",1,0,0,0,1
+A DESCENT INTO THE MAELSTRÖM,16,Narrator reflects on Jonas Ramus and the phenomenon of the Maelström,Jonas Ramus,unknown,"[""honest""]",1,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,18,Discussion about the Maelström's mysterious abyss and Norwegian beliefs,the narrator,unknown,"[""curious"", ""imaginative""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,18,Discussion about the Maelström's mysterious abyss and Norwegian beliefs,the guide,unknown,"[""informed"", ""doubtful""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,19,An old man shares a story about fishing and the Moskoe-ström.,the old man,unknown,"[""knowledgeable"", ""experienced""]",1,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,19,An old man shares a story about fishing and the Moskoe-ström.,the narrator,unknown,[],0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,19,An old man shares a story about fishing and the Moskoe-ström.,the two brothers,unknown,"[""cooperative""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,20,Narrator describes fishing and bravery among coastmen at sea,the narrator,unknown,"[""experienced"", ""adventurous""]",0,1,0,1,0
+A DESCENT INTO THE MAELSTRÖM,20,Narrator describes fishing and bravery among coastmen at sea,the coastmen,unknown,"[""brave"", ""experienced""]",0,2,0,0,0
+A DESCENT INTO THE MAELSTRÖM,20,Narrator describes fishing and bravery among coastmen at sea,the timid craft,unknown,"[""timid""]",0,-1,0,0,0
+A DESCENT INTO THE MAELSTRÖM,20,Narrator describes fishing and bravery among coastmen at sea,the skilled fishermen,unknown,"[""skilled"", ""successful""]",0,1,0,1,0
+A DESCENT INTO THE MAELSTRÖM,21,Narrative about a risky maritime journey and strategic navigation,we,unknown,"[""desperate"", ""courageous""]",0,1,0,1,0
+A DESCENT INTO THE MAELSTRÖM,21,Narrative about a risky maritime journey and strategic navigation,the crew,unknown,"[""experienced""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,21,Narrative about a risky maritime journey and strategic navigation,the captain,unknown,"[""strategic""]",1,0,0,1,0
+A DESCENT INTO THE MAELSTRÖM,21,Narrative about a risky maritime journey and strategic navigation,the environment,unknown,"[""violent"", ""challenging""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,23,Narrative about a perilous sea voyage through dangerous currents,narrator,unknown,"[""experienced"", ""cautious""]",1,0,0,1,1
+A DESCENT INTO THE MAELSTRÖM,24,Narrator reflects on danger and family members during a perilous voyage,the narrator,unknown,"[""cautious"", ""family-oriented""]",0,0,0,0,1
+A DESCENT INTO THE MAELSTRÖM,24,Narrator reflects on danger and family members during a perilous voyage,eldest brother,unknown,"[""family-oriented""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,24,Narrator reflects on danger and family members during a perilous voyage,the brother's son,unknown,"[""young"", ""helpful""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,24,Narrator reflects on danger and family members during a perilous voyage,the narrator's two boys,unknown,"[""young"", ""helpful""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,25,Narrator recounts a devastating hurricane and unusual weather conditions,the narrator,unknown,"[""observant"", ""historical""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,26,Narrator and two brothers prepare for a safe return from fishing trip,narrator,unknown,[],0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,26,Narrator and two brothers prepare for a safe return from fishing trip,brother 1,unknown,[],0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,26,Narrator and two brothers prepare for a safe return from fishing trip,brother 2,unknown,[],0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,27,Narrator and crew experience unusual weather and drifting at sea,narrator,unknown,"[""curious"", ""uneasy""]",0,0,0,0,1
+A DESCENT INTO THE MAELSTRÖM,27,Narrator and crew experience unusual weather and drifting at sea,crew member,unknown,"[""observant""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,28,A storm causes chaos and loss of a young brother at sea,the oldest seaman in Norway,unknown,"[""experienced""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,28,A storm causes chaos and loss of a young brother at sea,the youngest brother,unknown,"[""vulnerable""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,29,Narrator describes a perilous boat crossing and brother’s mysterious escape,the narrator,unknown,"[""cautious"", ""observant""]",0,0,0,1,0
+A DESCENT INTO THE MAELSTRÖM,29,Narrator describes a perilous boat crossing and brother’s mysterious escape,the elder brother,unknown,"[""resilient"", ""mysterious""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,30,A person struggles in a storm and is grasped by someone.,the narrator,unknown,"[""flurried"", ""determined""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,30,A person struggles in a storm and is grasped by someone.,somebody,unknown,"[""supportive""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,31,A brother's warning about Moskoe-ström causes emotional turmoil,the narrator,unknown,"[""emotional"", ""anxious""]",0,0,0,0,1
+A DESCENT INTO THE MAELSTRÖM,31,A brother's warning about Moskoe-ström causes emotional turmoil,elder brother,unknown,"[""protective""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,32,Narrator describes a dangerous journey across a turbulent whirlpool,narrator,unknown,"[""thoughtful"", ""self-critical""]",1,0,0,1,1
+A DESCENT INTO THE MAELSTRÖM,33,Narrator describes a violent storm and a rare clear sky with the moon,Narrator,unknown,"[""observant"", ""knowledgeable""]",1,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,34,A woman witnesses a distressing scene involving her brother.,the woman,female,"[""distressed"", ""determined""]",0,0,0,0,1
+A DESCENT INTO THE MAELSTRÖM,34,A woman witnesses a distressing scene involving her brother.,the brother,unknown,"[""pale"", ""distressed""]",0,0,0,0,1
+A DESCENT INTO THE MAELSTRÖM,36,Narrator describes a perilous sea storm and their experience during it,narrator,unknown,"[""observant"", ""imaginative""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,37,Narrator describes approaching and experiencing the whirlpool Moskoe-Ström,Narrator,unknown,"[""observant"", ""anxious""]",0,0,0,0,1
+A DESCENT INTO THE MAELSTRÖM,38,Narrator describes a perilous boat journey near a whirlpool,narrator,unknown,"[""observant"", ""anxious""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,39,Narrator reflects on fear and composure during the whirlpool encounter,Narrator,unknown,"[""hopeful"", ""resilient""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,40,"Narrator reflects on death, curiosity, and spiritual awe during a whirlpool experience",narrator,unknown,"[""reflective"", ""curious"", ""spiritually awe-inspired""]",1,0,0,1,1
+A DESCENT INTO THE MAELSTRÖM,41,Narrator reflects on a perilous boat situation and personal mental state,narrator,unknown,"[""reflective"", ""thoughtful""]",1,0,0,0,1
+A DESCENT INTO THE MAELSTRÖM,43,A brother struggles with fear during a storm at sea,the narrator,unknown,"[""determined"", ""fearful""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,43,A brother struggles with fear during a storm at sea,the brother,unknown,"[""fearful"", ""desperate""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,44,Narrator observes a madman's risky act during a storm at sea,the narrator,unknown,"[""calm"", ""observant""]",0,0,0,1,0
+A DESCENT INTO THE MAELSTRÖM,44,Narrator observes a madman's risky act during a storm at sea,the madman,unknown,"[""raving"", ""maniac"", ""frightened""]",-1,1,0,-1,1
+A DESCENT INTO THE MAELSTRÖM,45,A person experiences a perilous shipwreck and survival at sea.,the narrator,unknown,"[""resilient"", ""prayerful"", ""fearful""]",0,1,0,1,1
+A DESCENT INTO THE MAELSTRÖM,46,"Narrator observes a surreal, dangerous scene with awe and fear",Narrator,unknown,"[""courageous"", ""awe-inspired"", ""observant""]",1,1,0,1,2
+A DESCENT INTO THE MAELSTRÖM,47,Narrator observes a ship tilted in a dangerous situation,the narrator,unknown,"[""confused"", ""observant""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,47,Narrator observes a ship tilted in a dangerous situation,the ship (she),unknown,"[""stable"", ""descriptive""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,48,"Narrator describes navigating a mysterious, foggy, and rainbow-covered gulf",narrator,unknown,"[""observant"", ""resilient""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,50,Narrator describes descending into a whirlpool with debris and altered emotions,narrator,unknown,"[""observant"", ""perceptive"", ""emotionally affected""]",1,0,0,0,1
+A DESCENT INTO THE MAELSTRÖM,51,Narrator observes floating objects and anticipates doom during a storm.,narrator,unknown,"[""curious"", ""delirious""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,52,Narrator reflects on past fears and hopes related to the Moskoe-ström,Narrator,unknown,"[""reflective"", ""emotionally affected""]",0,0,0,0,1
+A DESCENT INTO THE MAELSTRÖM,55,Narrator discusses lessons learned from an old school-master about physics,the narrator,unknown,"[""curious"", ""observant""]",1,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,55,Narrator discusses lessons learned from an old school-master about physics,the old school-master,unknown,"[""knowledgeable"", ""educational""]",1,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,56,Narrator observes changing objects during a whirlpool journey,narrator,unknown,"[""observant"", ""determined""]",1,0,0,1,0
+A DESCENT INTO THE MAELSTRÖM,57,A man prepares to sacrifice himself into the sea during a crisis,the narrator,unknown,"[""determined"", ""resolute""]",1,2,0,2,0
+A DESCENT INTO THE MAELSTRÖM,57,A man prepares to sacrifice himself into the sea during a crisis,the brother,unknown,"[""despairing""]",0,0,0,0,1
+A DESCENT INTO THE MAELSTRÖM,58,Narrator recounts escape from a chaotic descent into the sea,narrator,unknown,"[""determined"", ""observant""]",1,1,0,1,0
+A DESCENT INTO THE MAELSTRÖM,58,Narrator recounts escape from a chaotic descent into the sea,loved brother,unknown,"[""loved"", ""vulnerable""]",0,0,0,0,1
+A DESCENT INTO THE MAELSTRÖM,59,Narrator describes a perilous descent and change in the whirlpool's nature,the narrator,unknown,"[""adventurous"", ""observant""]",0,1,0,1,0
+A DESCENT INTO THE MAELSTRÖM,60,A man recounts a harrowing sea experience to fishermen.,the narrator,unknown,"[""exhausted"", ""speechless"", ""changed appearance""]",0,0,0,0,1
+A DESCENT INTO THE MAELSTRÖM,60,A man recounts a harrowing sea experience to fishermen.,old mates,unknown,"[""fishermen"", ""distrustful""]",0,0,0,0,0
+A DESCENT INTO THE MAELSTRÖM,60,A man recounts a harrowing sea experience to fishermen.,fishermen of Lofoden,unknown,"[""merry"", ""distrustful""]",0,0,0,0,0
